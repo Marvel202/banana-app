@@ -772,7 +772,7 @@ with gr.Blocks(theme='ocean') as demo:
     # Add navigation bar
     navbar = gr.Navbar(
         value=[
-            ("FAL.AI nano-banana", "https://fal.ai/models/fal-ai/nano-banana/edit/api"),
+            ("Github repo", "https://github.com/Marvel202/banana-app/tree/main"),
             ("Learn more about Gradio Navbar", "https://www.gradio.app/guides/multipage-apps#customizing-the-navbar")
         ],
         visible=True,
